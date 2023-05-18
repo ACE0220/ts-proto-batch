@@ -12,11 +12,11 @@ const config =  defineConfig({
   plugins: []
 })
 
-if(process.env.NODE_ENV === 'development') {
-  config.output.forEach(item => {
-    item.sourcemap = true;
-  })
-}
+// if(process.env.NODE_ENV === 'development') {
+//   config.output.forEach(item => {
+//     item.sourcemap = true;
+//   })
+// }
 
 if(process.env.NODE_ENV === 'production') {
   config.plugins.push(
