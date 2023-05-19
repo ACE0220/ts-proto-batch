@@ -22,13 +22,16 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "commander": "^10.0.1",
-    "ts-proto": "^1.147.3"
+    "commander": "^10.0.1"
   },
   "devDependencies": {
     "@rollup/plugin-terser": "^0.4.3",
     "cross-env": "^7.0.3",
     "rimraf": "^5.0.1",
     "rollup": "^3.22.0"
+  },
+  "peerDependencies": {
+    "grpc-tools": "^1.12.4",
+    "ts-proto": "^1.147.3"
   }
 }
