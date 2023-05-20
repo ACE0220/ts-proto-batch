@@ -31,7 +31,6 @@
     "rollup": "^3.22.0"
   },
   "peerDependencies": {
-    "grpc-tools": "^1.12.4",
     "ts-proto": "^1.147.3"
   }
 }
