@@ -4,8 +4,12 @@
 ## 重要的事要说三遍
 
 **系统需要提前安装好protoc编译器**
+
 **系统需要提前安装好protoc编译器**
+
 **系统需要提前安装好protoc编译器**
+
+参考链接：https://ace0220.github.io/cicd/docker/make-image/#基于debian镜像的安装与测试
 
 ## 安装
 
