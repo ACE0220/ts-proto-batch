@@ -3,7 +3,7 @@
 ## 安装
 
 ```sh
-npm install grpc-tools ts-proto @tecace/ts-proto-batch -g
+npm install ts-proto @tecace/ts-proto-batch -g
 ```
 
 ## 使用
