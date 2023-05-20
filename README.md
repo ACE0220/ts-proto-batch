@@ -1,5 +1,12 @@
 # 批量转换proto file至typescript file
 
+
+## 重要的事要说三遍
+
+**系统需要提前安装好protoc编译器**
+**系统需要提前安装好protoc编译器**
+**系统需要提前安装好protoc编译器**
+
 ## 安装
 
 ```sh
