@@ -35,3 +35,9 @@ ts-pb gen -i protos -o dist
   - 假定process.cwd()返回/User/home/ace
   - -i protos 最终会拼接成/User/home/ace/protos
   - -o dist 最终会拼接成/User/home/ace/dist
+
+## docker镜像
+
+提供了dockerfile，通过-v参数指定挂载路径，批量生成.ts 文件
+
+镜像构建运行请查看https://ace0220.github.io/cicd/docker/make-image/#%E5%9F%BA%E4%BA%8E%E4%BB%A5%E4%B8%8A%E6%B5%81%E7%A8%8B%E6%9E%84%E5%BB%BAdocker%E9%95%9C%E5%83%8F
